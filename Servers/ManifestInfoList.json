@@ -9,7 +9,7 @@
       "VoiceAppIDOffset": 165304024
     },
     "RequiresRecNet": true,
-    "ServerName": "RecNet2018_Recboomer"
+    "ServerName": "RecNet2018_RecBoomer"
   },
  {
     "ManifestString": "4180590405597713716",
@@ -21,6 +21,6 @@
       "VoiceAppIDOffset": 165304024
     },
     "RequiresRecNet": false,
-    "ServerName": "RecNet2018_Recboomer"
+    "ServerName": "RecNet2018_RecBoomer"
   }
 ]
